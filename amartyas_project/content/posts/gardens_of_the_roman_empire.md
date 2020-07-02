@@ -14,7 +14,7 @@ draft: true
 
 <span style="color:#fff; font-family: 'Times New Roman';">
 
-![Fig. 1. Aerial photograph of the Vigna Barberini taken early 1999](1.jpg)
+![Fig. 1. Aerial photograph of the Vigna Barberini taken early 1999](/images/1.jpg)
 
 *Fig. 1. Aerial photograph of the Vigna Barberini taken early 1999*
 
@@ -51,7 +51,7 @@ Jupiter Ultor.
 
 
 
-![Fig. 2. Vigna Barberini: plan of the areas explored from 1985 to 1998.](2.jpg)
+![Fig. 2. Vigna Barberini: plan of the areas explored from 1985 to 1998.](/images/2.jpg)
 
 *Fig. 2. Vigna Barberini: plan of the areas explored from 1985 to 1998.*
 
@@ -124,7 +124,7 @@ columns were white marble paving slabs with grooves, perhaps indicating they sup
 *Fig. 3. Peristyle column marble base of the Julio-Claudian
 domus.*
 
-![Fig. 3 Peristyle column marble base of the Julio-Claudian domus](3.jpg)
+![Fig. 3 Peristyle column marble base of the Julio-Claudian domus](/images/3.jpg)
 
 #### Further Findings
 
@@ -139,7 +139,7 @@ Although the excavations
 uncovered only a small section of the garden, a flowerbed, framed by triangular bricks, and fragments of
 flowerpots were brought to light.
 
-![Fig. 4. Axonometric reconstruction of the domus peristyle. ](/static/4.jpg)
+![Fig. 4. Axonometric reconstruction of the domus peristyle. ](/images/4.jpg)
 
 *Fig. 4. Axonometric reconstruction of the domus peristyle.*
 
